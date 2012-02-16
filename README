@@ -1,3 +1,5 @@
+# Hello
+
 Hacking the University is a fork of http://usesthis.com. 
 
 Hacking the University is a website of short interviews asking developers who work in universities about their craft. It's a simple static little thing, that uses Jekyll and Github.
@@ -7,6 +9,39 @@ Interested in cloning the site for your own interviews, similar or otherwise? DO
     1) Who are you, and what do you do? (Try to keep this brief!)
     2) Who taught you how to do what you do?
     3) What tools do you use?
-    4) Describe your ideal working environment.
+    4) Describe your dream working environment.
 
 If you *do* make your own version, send the original website (usesthis.com) author an email to the fourth letter of the alphabet, followed by the 'at' symbol, care of usesthis.com
+
+# Install notes
+
+If you clone this repo or the original usesthis.com repo, here are a few notes I've made on setting up the site on your own server.
+
+1. Obviously clean out any reference to hackingtheuniveristy.net and 'Hacking the University'. Also remove everything in _posts and images.
+
+2. You'll need to set up Jekyll on your server. Here are some instructions: https://github.com/mojombo/jekyll/wiki/install 
+
+3. You'll need to configure the rewrite rules for your webserver. Nginx and Apache rules are here: https://gist.github.com/1840543
+
+4. My workflow is: add content to local git repo on my laptop; push it to github, pull it to remote host and run jekyll. e.g. cd /var/www/html/hacktheuni; /usr/bin/git pull; sudo /usr/bin/jekyll
+
+There are various ways to do this last bit: https://github.com/mojombo/jekyll/wiki/Deployment
+
+5. My apache config file looks like:
+
+<VirtualHost *:80>
+        ServerName hackingtheuniversity.net
+        ServerAlias *.hackingtheuniversity.net
+        DocumentRoot /var/www/html/hacktheuni/_site
+        LogLevel error
+        ErrorLog /var/log/httpd/hackingtheuniversity.net_error.log
+        CustomLog /var/log/httpd/hackingtheuniversity.net_access.log common
+        RewriteEngine On
+        RewriteCond %{HTTP_HOST} ^([0-9a-z+.-]+).hackingtheuniversity.net/?$ [NC]
+        RewriteRule (.*) /interviews/%1.html [L]
+</VirtualHost>
+
+You'll also need to set up wildcard DNS. Something like: 
+*.hackingtheuniversity.net 14400 IN A 192.0.43.10
+
+Thanks to @usesthis and @davechallis for help with the rewrite stuff.
