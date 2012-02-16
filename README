@@ -17,7 +17,7 @@ If you *do* make your own version, send the original website (usesthis.com) auth
 
 If you clone this repo or the original usesthis.com repo, here are a few notes I've made on setting up the site on your own server.
 
-1. Obviously clean out any reference to hackingtheuniveristy.net and 'Hacking the University'. Also remove everything in _posts and images.
+1. Obviously clean out any reference to hackingtheuniveristy.net and 'Hacking the University'. Also remove everything in _posts and images. 
 
 2. You'll need to set up Jekyll on your server. Here are some instructions: https://github.com/mojombo/jekyll/wiki/install 
 
