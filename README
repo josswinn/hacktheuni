@@ -37,6 +37,7 @@ There are various ways to do this last bit: https://github.com/mojombo/jekyll/wi
         ErrorLog /var/log/httpd/hackingtheuniversity.net_error.log
         CustomLog /var/log/httpd/hackingtheuniversity.net_access.log common
         RewriteEngine On
+	ErrorDocument 404 /not_found.html
         RewriteCond %{HTTP_HOST} ^([0-9a-z+.-]+).hackingtheuniversity.net/?$ [NC]
         RewriteRule (.*) /interviews/%1.html [L]
 </VirtualHost>
