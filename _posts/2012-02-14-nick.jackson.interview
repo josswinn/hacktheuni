@@ -26,7 +26,7 @@ I have a deep rooted love of whiteboards, and firmly believe that offices should
 
 From a software standpoint I do most of my work flitting between [Coda][coda] and the [Terminal][terminal], occasionally hitting up [GitHub for Mac][github-for-mac] to commit code or manage the repositories I have. On the move I resort to an array of utilities, including [Prompt][prompt-ios].
 
-My toolchain is an [ever-changing beast](http://lincoln.nickjackson.me/the-toolchain-first-pass/ "The Toolchain: First Pass.") which helps move code from my brain to a server somewhere, generally running [CentOS][centos]. I use [GitHub][github] to store code, the [Jenkins][jenkins] CI server to do deployment magic, and the developer tools in [Chrome][chrome] to make sure it's working properly. I also use the marvellously simple and astonishingly useful [HTTP Client][http client] to debug things.
+My toolchain is an [ever-changing beast](http://lincoln.nickjackson.me/the-toolchain-first-pass/ "The Toolchain: First Pass.") which helps move code from my brain to a server somewhere, generally running [CentOS][centos]. I use [GitHub][github] to store code, the [Jenkins][jenkins] CI server to do deployment magic, and the developer tools in [Chrome][chrome] to make sure it's working properly. I also use the marvellously simple and astonishingly useful [HTTP Client][http-client] to debug things.
 
 ### Describe your dream working environment.
 
