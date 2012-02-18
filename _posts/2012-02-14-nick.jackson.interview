@@ -8,29 +8,29 @@ categories: ['mac', 'web', 'developer', Lincoln, UK, University]
 ---
 ### Who are you, and what do you do?
 
-I'm [Nick Jackson](http://nickjackson.me), and I'm a web developer at the [University of Lincoln](http://lincoln.ac.uk). Most of the time I'm slinging [PHP](http://php.net) for big projects, but I also tinker around the edges with things that make life easier, need doing or are just plain cool.
+I'm [Nick Jackson](http://nickjackson.me "web developer at the University of Lincoln."), and I'm a web developer at the [University of Lincoln](http://lincoln.ac.uk). Most of the time I'm slinging [PHP][php] for big projects, but I also tinker around the edges with things that make life easier, need doing or are just plain cool.
 
 ### Who taught you how to do what you do?
 
-I'm mostly self taught as far as coding skills go, being of the 'poke it and see' school of learning how things work. I'm a big fan of people reading the documentation, which is where I pick up a good 50-60% of what I know, but the rest comes from various forums, of particular note being [Stack Overflow](http://stackoverflow.com/).
+I'm mostly self taught as far as coding skills go, being of the 'poke it and see' school of learning how things work. I'm a big fan of people reading the documentation, which is where I pick up a good 50-60% of what I know, but the rest comes from various forums, of particular note being [Stack Overflow][stack-overflow].
 
 Working with other people is an incredible way to pick up so many skills as well, and it's very uncommon for me to go a week without learning something new by asking questions or watching people scrawl things on a whiteboard.
 
 ### What tools do you use?
 
-I'm an [Apple](http://apple.com) hardware junkie, so it should be no surprise that I mostly use their hardware. My main desktop is a Mid-2011 [27" iMac](http://www.apple.com/uk/imac/) with a 2.7GHz Core i5 and 4GB RAM, but I have been known on occasion to revert to my ever-trusty Mid-2007 [17" MacBook Pro](http://www.apple.com/uk/macbookpro/) with a 2.4GHz Core 2 Duo and 4GB RAM.
+I'm an [Apple](http://apple.com) hardware junkie, so it should be no surprise that I mostly use their hardware. My main desktop is a Mid-2011 27" [iMac][imac] with a 2.7GHz Core i5 and 4GB RAM, but I have been known on occasion to revert to my ever-trusty Mid-2007 [17" MacBook Pro][macbook-pro] with a 2.4GHz Core 2 Duo and 4GB RAM.
 
-In my pocket is my 16GB [iPhone 4](http://www.apple.com/uk/iphone/), and I'm known to lug around a work's [iPad](http://www.apple.com/uk/ipad/) from time to time. I always tend to carry around a variety of memory sticks and assorted other gizmos.
+In my pocket is my 16GB [iPhone 4][iphone-4], and I'm known to lug around a work's [iPad](ipad) from time to time. I always tend to carry around a variety of memory sticks and assorted other gizmos.
 
 I have a deep rooted love of whiteboards, and firmly believe that offices should have as many as possible.
 
-From a software standpoint I do most of my work flitting between [Coda](http://panic.com/coda/) and the Terminal, occasionally hitting up [GitHub for Mac](http://mac.github.com/) to commit code or manage the repositories I have. On the move I resort to an array of utilities, including [Prompt](http://panic.com/prompt)
+From a software standpoint I do most of my work flitting between [Coda][coda] and the [Terminal][terminal], occasionally hitting up [GitHub for Mac][github-for-mac] to commit code or manage the repositories I have. On the move I resort to an array of utilities, including [Prompt][prompt-ios].
 
-My toolchain is an [ever-changing beast](http://lincoln.nickjackson.me/the-toolchain-first-pass/) which helps move code from my brain to a server somewhere, generally running [CentOS](http://www.centos.org/). I use [GitHub](https://github.com/) to store code, the [Jenkins](http://jenkins-ci.org/) CI server to do deployment magic, and the developer tools in [Chrome](http://google.com/chrome) to make sure it's working properly. I also use the marvellously simple and astonishingly useful [HTTP Client](http://ditchnet.org/httpclient/) to debug things.
+My toolchain is an [ever-changing beast](http://lincoln.nickjackson.me/the-toolchain-first-pass/ "The Toolchain: First Pass.") which helps move code from my brain to a server somewhere, generally running [CentOS][centos]. I use [GitHub][github] to store code, the [Jenkins][jenkins] CI server to do deployment magic, and the developer tools in [Chrome][chrome] to make sure it's working properly. I also use the marvellously simple and astonishingly useful [HTTP Client][http client] to debug things.
 
 ### Describe your dream working environment.
 
-My dream environment is one which gets out of the way and lets me do what I want to get done, only coming to my attention when something is required. I'm a massive fan of [information radiators](http://alistair.cockburn.us/Information+radiator) which sit there passively feeding me information about the state of the world, be that notifying me of the success of the latest build or letting me know in subtle ways that one of the servers is running a bit slower than usual.
+My dream environment is one which gets out of the way and lets me do what I want to get done, only coming to my attention when something is required. I'm a massive fan of [information radiators](http://alistair.cockburn.us/Information+radiator "A publicly posted display that shows people walking by what is going on.") which sit there passively feeding me information about the state of the world, be that notifying me of the success of the latest build or letting me know in subtle ways that one of the servers is running a bit slower than usual.
 
 I think it's essential that there is plenty of space in an environment for people to mill about chatting, and it's just as important that those spaces have whiteboards on every available surface for people to stop and jot down their latest great idea. It's also helpful if there are spaces people can go to not be disturbed, so my dream environment would sport a mix of regular desks, open areas and small nooks which you can dip into if needed. Particular attention should be paid to the things which normal offices ignore, things like top-quality lighting, decent plants, curtains or blinds, even 'small' things like making sure the printer isn't sat right on a major thoroughfare or 
 
