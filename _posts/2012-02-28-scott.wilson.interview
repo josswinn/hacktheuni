@@ -8,32 +8,32 @@ categories: ['mac', 'web', 'javascript', 'java', 'developer', Bolton, UK, Univer
 ---
 ### Who are you, and what do you do?
 
-I'm [Scott Wilson](http://scottbw.wordpress.com/ "JISC-CETIS Assistant Director & Senior Researcher at the University of Bolton."), and I do all kinds of stuff like research projects in my department at the [University of Bolton](http://www.bolton.ac.uk/IEC/Home.aspx "Institute for Educational Cybernetics"), and working with standards adoption for [JISC CETIS](http://jisc.cetis.ac.uk/ "Centre for Educational Technology and Interoperability Standards"). For my HEI I mostly just help out with our IS group with things like architecture choices and selecting standards when they'd like some help. A lot of what I do seems to be connecting people, ideas and projects together rather than cutting releases.
+I'm [Scott Wilson](http://scottbw.wordpress.com/ "JISC-CETIS Assistant Director & Senior Researcher at the University of Bolton."), and I do all kinds of stuff like research projects in my department at the [University of Bolton](http://www.bolton.ac.uk/IEC/Home.aspx "Institute for Educational Cybernetics"), and working with standards adoption for [JISC CETIS](http://jisc.cetis.ac.uk/ "Centre for Educational Technology and Interoperability Standards"). For my HEI, I mostly just help out our IS group with things like architecture choices and selecting standards when they'd like some help. A lot of what I do seems to be connecting people, ideas and projects together rather than cutting releases.
 
 I'm currently a committer on the [Wookie][wookie], [Rave][rave] and [DeviceMap][devicemap] projects at Apache, and I'm working on a project for a kind of webapp-store-in-a-box called [Edukapp][edukapp]. I love tinkering with things like [Node.js][node-js] and [Mustache][mustache] as I'm a big [JavaScript][javascript] fan, but most of the big stuff I do tends to be in [Java][java].
 
-My ideal job title would be something like "Wizard Without Portfolio" (this is what Stuart Cheshire did at Apple) but sadly it still says "Assistant Director" on my staff profile which makes it sound like I spend all day working in Excel.
+My ideal job title would be something like "Wizard Without Portfolio" (this is what Stuart Cheshire did at Apple) but sadly it still says "Assistant Director" on my staff profile, which makes it sound like I spend all day working in Excel.
 
 ### Who taught you how to do what you do?
 
-I learned programming by writing my own games on the [Sinclair Spectrum][spectrum] and [Amiga][amiga], and then as a teenager I went to Shipley College and got trained in [COBOL][cobol] and [PASCAL][pascal]. However, I went off computers completely for years, and ended up working in a bakery, then a hospital, then studying Psychology and Criminology at Uni. Its nice to have a break!
+I learned programming by writing my own games on the [Sinclair Spectrum][spectrum] and [Amiga][amiga], and then as a teenager I went to Shipley College and got trained in [COBOL][cobol] and [PASCAL][pascal]. However, I went off computers completely for years, and ended up working in a bakery, then a hospital, then studying Psychology and Criminology at Uni. It's nice to have a break!
 
 I initially learned a lot of development practices from working in the software industry before I came to HE - I worked at some great companies and some really, really bad ones, and both experiences can be instructive. 
 
-More recently I've been mostly self -taught. Working on projects in the Apache Software Foundation has taught me a lot, too - having a project mentored in the [Apache Incubator](http://incubator.apache.org/) is a great learning experience, as you get to collaborate with very, very experienced developers without having to work for a big software company.
+More recently I've been mostly self-taught. Working on projects in the Apache Software Foundation has taught me a lot, too - having a project mentored in the [Apache Incubator](http://incubator.apache.org/) is a great learning experience, as you get to collaborate with very, very experienced developers without having to work for a big software company.
 
 ### What tools do you use?
 
-I have a [MacBook Pro][macbook-pro] with [Eclipse][eclipse] on it and some other tools, but most of it is pretty invisible as its things like [Maven][maven] and [Git][git]. I have a lot of browsers installed as I have to do browser compatibility testing - so I've got [Opera][opera], [Opera Mobile Emulator][opera-mobile-emulator], [Safari][safari], [Chrome][chrome], [Firefox][firefox], and an [Android emulator][android-emulator]. I have a 3G dongle which is a really important piece of kit as its what frees me up to work away from the office.
+I have a [MacBook Pro][macbook-pro] with [Eclipse][eclipse] on it and some other tools, but most of it is pretty invisible as it's things like [Maven][maven] and [Git][git]. I have a lot of browsers installed as I have to do browser compatibility testing - so I've got [Opera][opera], [Opera Mobile Emulator][opera-mobile-emulator], [Safari][safari], [Chrome][chrome], [Firefox][firefox], and an [Android emulator][android-emulator]. I have a 3G dongle which is a really important piece of kit as it's what frees me up to work away from the office.
 
-However the tools I really use the most are mailing lists, issue trackers, [GitHub][github] and [Stack Overflow][stack-overflow]. Coding is a lot more social than people realise - I've been trying to get that into some of our computing courses here, things like being nice on mailing lists…
+However, the tools I really use the most are mailing lists, issue trackers, [GitHub][github] and [Stack Overflow][stack-overflow]. Coding is a lot more social than people realise. I've been trying to get that into some of our computing courses here - things like being nice on mailing lists…
 
 ### Describe your dream working environment.
 
-I'm very mobile anyway really - like a lot of techies in the Manchester area I work in cafes a lot rather than an office most of the time - I go into Uni for meetings and to talk to people rather than to code or write. I find it easier to concentrate when its really noisy around me - I can tune out a busy cafe with lots of people talking loudly about their shopping and the football much more easily than I can a couple of colleagues quietly chatting on the other side of the office.
+I'm very mobile anyway really - like a lot of techies in the Manchester area I work in cafes a lot rather than an office most of the time - I go into Uni for meetings and to talk to people rather than to code or write. I find it easier to concentrate when it's really noisy around me - I can tune out a busy cafe with lots of people talking loudly about their shopping and the football much more easily than I can a couple of colleagues quietly chatting on the other side of the office.
 
 Technology-wise I'm not very fussy about what I use, so my current set up is fine. However, if I could have a magical morphing tablet that could emulate any tablet, phone, TV or PC running any OS and browser combo, that would be a very nice timesaver for me.
 
 My ideal working environment would be out and about in Manchester, but in an alternative universe where it was sunny most of the time.
 
-Here's a pic of me working in my current office, Caffè Neroo next to the [Wheel of Manchester](http://en.wikipedia.org/wiki/Wheel_of_Manchester) (its only overcast and not actually raining for once).
+Here's a pic of me working in my current office, Caffè Nero next to the [Wheel of Manchester](http://en.wikipedia.org/wiki/Wheel_of_Manchester) (it's only overcast and not actually raining for once).
