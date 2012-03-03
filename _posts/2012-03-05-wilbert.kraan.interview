@@ -1,0 +1,43 @@
+---
+layout: post
+title: "An interview with Wilbert Kraan"
+slug: "wilbert.kraan"
+person: "Wilbert Kraan"
+summary: "Data Modeller, University of Bolton"
+categories: ['data', 'mashups', Bolton, UK, University]
+---
+### Who are you, and what do you do?
+
+I'm [Wilbert Kraan](http://blogs.cetis.ac.uk/wilbert/ "Wilbert's work blog"), and I work at the University of Bolton, mostly on the [JISC - CETIS](http://jisc.cetis.ac.uk/ "JISC CETIS") service. I'm more of a data modeller and masher than a developer, which is why I work a lot on interoperability specifications for educational content and assessment such as [IMS QTI](http://www.imsglobal.org/question/ "IMS Question & Test Interoperability Specification"), and also on mashups and data analysis such as our work on the [PROD](http://prod.cetis.ac.uk/ "PROD is a directory and monitoring tool for JISC funded projects.") project database.
+
+I've also done a lot of work in architecture and modelling; first in Service Oriented Architecture, now more in Enterprise Architecture, particularly in the [ArchiMate][archimate] modelling language. Getting and mixing the right data easily is core to me, hence my interest in [REST](https://en.wikipedia.org/wiki/Representational_state_transfer "Representational state transfer") and the architecture of the web.
+
+As an assistant director at JISC - CETIS, a lot of my work is also just about listening to people, and pointing them in useful directions, if I can.
+
+### Who taught you how to do what you do?
+
+My brother and I kind of team-taught each other [BASIC[[basic] on an [Atari 800 XL][atari-800xl] I won in a competition. My mum taught me the [MS DOS[[ms-dos] shell stuff on a 386, but the biggest leg-up was a pal showing me the web in the university library computer lab. With other friends, and at my first job, I spent a lot of time hand coding [HTML][html].
+
+My degrees were in linguistics, and particularly semantics and pragmatics. That's still very useful for thinking about data, information and context, but also how people approach technology.
+
+My colleague [Scott Wilson](http://scott.wilson.hackingtheuniversity.net/ "Scott Wilson") helped me learn [Python][python], and I steal lots of [PHP][php] ideas and code from [David Sherlock](http://blogs.cetis.ac.uk/david/ "David Sherlock").
+
+I think I've learned most, though, by throwing stuff at the machine, and observing what it does.
+
+### What tools do you use?
+
+I use [Eclipse][eclipse] and its [CVS][cvs] and [Git][git] plug-ins for various projects. I use [Oxygen][oxygen] for any [XML][xml] related stuff, and [TextWrangler][textwrangler] for scripting. 
+
+On the data side, I really like [Google Refine][google-refine] for munging, and I've been using [Kasabi][kasabi] a lot recently for storage. [Knoodl][knoodl] is good for data modelling, and I'll be looking into using [Sesame][sesame], [Joseki][joseki], [OpenLink Virtuoso][virtuoso] or [Mulgara][mulgara] for some institution-internal data munging.
+
+On the Enterprise Architecture side, Archi is our very own tool of choice.
+
+### Describe your dream working environment.
+
+One I've had in mind for a while is where all data is available in a single schemaless format. I can just GET a dataset, mix it with other datasets or slices of datasets, query it or mash it up and visualise it using a wide variety of tools. If it's open data, I can republish it without worrying about license compatibilities. 
+
+If it's internal, confidential data I'd want to be able to query a model of the organisation, and have live results, or do 'what if' scenarios on realtime data.
+
+The people side is probably more important, though, and for that I already have a bunch of inspiring characters who let me do my thing.
+
+The pic is of me working from home.
