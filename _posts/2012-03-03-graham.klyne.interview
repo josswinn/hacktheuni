@@ -1,0 +1,37 @@
+---
+layout: post
+title: "An interview with Graham Klyne."
+slug: "graham.klyne"
+person: "Graham Klyne"
+summary: "Developer, University of Oxford"
+categories: ['data', 'mac', 'javascript', 'python', '3D', 'Oxford', 'UK', 'University']
+---
+### Who are you, and what do you do?
+
+I am [Graham Klyne](http://www.ninebynine.org/ "Graham Klyne") , a software developer and occasional project manager in the [Zoology department at Oxford University](http://www.zoo.ox.ac.uk/ "Department of Zoology, University of Oxford").  I like to think I mainly write software in support of research data management, but in practice I also spend a fair amount of my time talking about requirements and plans for writing software to support of research data management.  I'm currently engaged with an EU project looking into the challenges of preserving scientific workflows, at both technical and social levels.
+
+### Who taught you how to do what you do?
+
+I'm largely self-taught, having come of age at a time when many software developers had to be self-taught, but along the way I've been fortunate to work with some really smart people who have opened my eyes to new and different ways of looking at things.
+
+I've always been fascinated buy the interaction between the "digital domain" and the real world.  Early on, I learned a lot about systems programming by writing software to simulate real-word systems and emulate early microprocessor chips. Later, I became involved with industrial process control including for steelworks and brewing systems, which required some understanding of the ways that computers interface with real-world devices.  After that came scientific instrumentation and measurement systems, including implementing what I believe was the first commercial 3D motion capture system.  I then came to networking by way of financial currency dealing systems, and spent some time supporting early software stacks for interconnecting different types of computer systems.
+
+Working for a startup company led me to network standards-related work, initially in the [IETF](https://www.ietf.org/ "Internet Engineering Task Force") and later in [W3C](http://www.w3.org/ "World Wide Web Consortium"), where I was introduced to the early stirrings of the semantic web.  Here we were thinking about the challenges of computer representation of real-world artifacts and concepts at web scale, a problem that I think we have not yet fully conquered, over 10 years on.  A great surprise for me in this was that I found myself reading philosophy books to gain a greater understanding of the kind of problems we were tackling.
+
+Most recently I have become fascinated with the [RepRap][reprap] 3D printing system. Inspired by Adrian Bowyer's presentation and [demonstration at Dev8D](http://dev8d.jiscinvolve.org/wp/2010/02/25/reprap-the-self-replicating-3d-printer/ "RepRap: the self-replicating 3D printer") in 2010, and as a participant in the [Pif3D](https://code.google.com/p/pif3d/ "UK University Community Building RepRap 3D Printers For Others") project, I have since built and commissioned my own RepRap and have nearly completed a second generation machine. For me, this is finally "closing the loop", learning how to create representations that exist initially in pure digital form and realizing them as physical artifacts. Simple objects for DIY projects that cannot be purchased at B&Q are now just a hacking session away!
+
+### What tools do you use?
+
+My current laptop is a 13-inch [MacBook][macbook-pro], and I use Linux desktop workstations with dual 24-inch screens for more heavyweight software development. These days, I program mainly in [Python][python] and [Javascript][javascript], though given half a chance and the right support libraries I'd use [Haskell][haskell].  The most important day-to-day tools for my core work, not counting communications tools like email, are (a) a good fast text editor, (b) [Git][git] and/or [Mercurial][mercurial], (c) [Notational Velocity][notational-velocity] + [SimpleNote][simplenote-ios] for note-taking.  There are many more software tools I use on an occasional basis.  For RepRap construction a set of good quality metric spanners, ball-ended Allen-key "screwdrivers" and a pair of good quality tweezers are invaluable.
+
+### Describe your dream working environment.
+
+For computing hardware, not so different from what I describe above, maybe with a more memory for running multiple virtual machines without performance loss.  A laptop with the weight of a [MacBook Air][macbook-air], the computing horsepower of a multicore desktop, go-anywhere high-speed Internet connectivity and >12 hours intensive-use battery life would be smooth :)
+
+The biggest change I'd make would be to the space that's available for communicating with co-workers:  a room that can be used for team brainstorming, with light, space and wrap-around notice boards and whiteboards, and large screen-computers that can be used for collaborative working and pair programming.
+
+And, through the window, a waterscape view.
+
+
+--
+<small>Photo Credit: [Adam Field](http://flickr.com/photos/or2008/6875984565/)</small>
