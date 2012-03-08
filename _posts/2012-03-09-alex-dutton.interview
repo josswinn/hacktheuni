@@ -1,0 +1,102 @@
+---
+layout: post
+title: "An interview with Alex Dutton."
+slug: "alex.dutton"
+person: "Alex Dutton"
+summary: "Developer, University of Oxford"
+categories: ['data', 'linux', 'mac', 'python', 'Oxford', 'UK', 'University']
+---
+### Who are you, and what do you do?
+
+I'm a developer and unofficial data architect at <a
+href="http://www.oucs.ox.ac.uk/">Oxford University Computing
+Services</a>. I joined two and a half years ago to do <a
+href="http://m.ox.ac.uk/">mobile</a> and <a
+href="http://www.oucs.ox.ac.uk/oxpoints/">geo</a> stuff. This turned me
+into a <a href="http://en.wikipedia.org/wiki/Linked_data">linked
+data</a> person and I moved on to a couple of projects dealing with <a
+href="http://opencitations.net/">citation data in the life sciences</a>,
+and <a href="http://data.clarosnet.org/">the aggregation of antiquarian
+data</a>.
+
+Nowadays, I do a lot of work in exposing data about the University of
+Oxford for re-use through our <a href="http://data.ox.ac.uk/">open data
+service</a>. The publication of these data are largely driven by
+internal requirements, with the wider publication a happy side-effect.
+
+### Who taught you how to do what you do?
+
+My first introduction to computing came through an [Atari
+800XL][atari-800xl], <a href="http://en.wikipedia.org/wiki/Mr._Do!">Mr. Do!</a>
+and a text-based adventure game. Around the age of nine or ten I
+discovered a book called "Things to make and do with your computer",
+which taught me my very first [BASIC][basic]. Other the following years I taught
+myself to program using Microsoft [QBasic][qbasic], [Visual Basic 6][visual-basic] and [PHP][php].
+
+I'd been required to do a foundation short course in ICT at GCSE, mostly
+requiring an ability to use office software, but it wasn't until
+university that I received any 'proper' computing education. I studied
+for a four-year undergraduate masters in Computer Science, learning what
+I need to approach problems through the use of computing, and the
+theoretical bases behind The Right Way To Do Things. However, it's only
+since then (and with experience) that that knowledge has sunk in enough
+to give me a more intuitive feel for what works and what doesn't.
+
+Working with others and getting feedback has been immensely useful in
+picking up good habits. Working in isolation one develops one's own
+eccentricities of coding style, and it takes someone else quite rightly
+saying "that's a crazy way to do it" to make one re-evaluate and find a
+better, more understandable and maintainable, solution. Coupled with
+this, reading other people's code is a good way to learn new tricks and
+approaches; props to open source software. The serendipity of events
+like <a href="http://dev8d.org/">Dev8D</a> has also been useful in
+learning new techniques and tools that save me a lot of time.
+
+I'm still learning.
+
+### What tools do you use?
+
+Since an internship with <a href="http://maplecroft.com/">Maplecroft</a>
+after my second year, I've been a devout [Pythonista][python] and [Django][django] user. That said, I'm
+also quite at home with [Java][java].
+
+For version control I <a
+href="http://whygitisbetterthanx.com/">prefer</a> [Git][git] (and [GitHub][github]), and <a
+href="http://blog.mwolson.org/tech/why_i_dislike_subversion.html">dislike</a>
+[Subversion][subversion].
+
+For non-trivial code I use <a
+href="http://en.wikipedia.org/wiki/Test-driven_development">test-driven
+development</a> (<a
+href="http://docs.python.org/library/unittest.html">unittest</a>, <a
+href="http://www.voidspace.org.uk/python/mock/">mock</a>), and [Jenkins][jenkins] for <a
+href="http://en.wikipedia.org/wiki/Continuous_integration">continuous
+integration</a>. I'm beginning to explore [Puppet][puppet] for <a
+href="http://en.wikipedia.org/wiki/Configuration_management">configuration
+management</a>, edging away from more haphazard deployment practices.
+
+I'm a [Fedora][fedora] user on the desktop
+(at work, and on my [MacBook][macbook-pro]), and have a preference for [Debian][debian] on servers. I use [Eclipse][eclipse] and [PyDev][pydev] for any heavyweight development, and
+[vim][vim] as my text-editor.
+
+
+### Describe your dream working environment.
+
+Heh. Well-defined development practices would be good, as we currently
+have an eclectic mix of approaches towards testing and deployment.
+Keeping on top of testing, releases and reproducibility would (I
+suspect) save us time in the long run.
+
+There's currently a bit of a disconnect between our development and
+operations teams, as us developers have a tendency to not consider how
+deployment will happen and involve operations a little late in the
+project. In the other direction, operations are pressed for time and
+find it difficult to find the time to tell us what we should be doing.
+All this slows down the transition of software into production, and
+hence consumes more time on both sides than should be necessary. If we
+had someone explicitly tasked with facilitating that communication,
+hopefully we'd all have smoother lives ☺.
+
+Other than that, I like my current work environment. I have flexible
+hours, lots of screen space and a sufficiently well-specced box. Most
+importantly, I get to work on fun things.
