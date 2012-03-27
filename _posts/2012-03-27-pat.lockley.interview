@@ -1,0 +1,25 @@
+---
+layout: post
+title: "An interview with Pat Lockley."
+slug: "pat.lockley"
+person: "Pat Lockley"
+summary: "Developer, University of Oxford"
+categories: ['drupal', 'wordpress', 'php', 'javascript', 'Oxford', 'UK', 'University']
+---
+### Who are you, and what do you do?
+
+I am Pat Lockley and Pat Lockley talks about himself in the third person. Work wise I am mostly a [PHP][php]/[MySQL][mysql]/[Javascript][javascript] person, presiding over [Drupal][drupal] and [WordPress][wordpress] installs, with a dose of CMS free code as well. I have built some browser extensions as well - but I tend to dabble a little bit here and there - with a preference for open source educational projects and also developing the odd bit of actual learning content when I get the time to.
+
+### Who taught you how to do what you do?
+
+I did a computer science degree and it taught me nothing at all - is that too much hacking for a University to take? I would say "self-taught" but no one is self taught - else I would instantly know everything there ever was to know. I have learned a lot through basically finding something similar to what I want and then taking it apart and finding out how it works, then repurposing it. Thankfully computing is good for this approach; though you could consider it a problem with computing - is computing suffering from a lack of formal teaching? I guess I learn on a need-to-brain (as a concept analogous to hand-to-mouth) in that I tend to learn how to do something when I need to make it happen - this way skills are fresh and I can keep up to date. I'm not sure I'd like having a skill I couldn't use, that feels slightly immoral.
+
+### What tools do you use?
+
+This is where I'll come across as the worst coder ever. I tend to work quite primitively mostly using basic text editors and FTP software. I like [Github][github] as a remote backup, but I rarely use [Git][git] to it's full potential. I feel, as an individual, that a lot of open source projects - to use a Stallman like questioning - aren't really open as the code is engineered to a level which makes it prohibitive for anyone to code. The first open source project I used for work was coded in a way I just couldn't understand - sure, we can apply a code standard, but to paraphrase Stallman - if you can't understand the code enough to change it, then the benefits of its openness are reduced. I think I could present an argument for writing code that wasn't engineered to the nth degree as that process inevitably makes it harder for a larger public to engage with that code. How this sits within open source as a movement I don't know - if you want free code, then take the engineered option, if you want code you understand without learning everything about it, then it needs another approach. If the learning curve to use an open source system is greater than someone's enthusiasm then you might want to consider that a problem - it might be an impossible goal, but I'd sooner write code that anyone could begin to understand.
+
+So yes, that paragraph isn't about a tool, but I think a big part of what I do and how I work is to be as "open" to everyone as possible - and I would consider that opting to work that way is akin to using a tool. It certainly has an affect on the tools I choose to use.
+
+### Describe your dream working environment.
+
+Ideally, the fastest PHP and MySQL box imaginable. Inordinate amounts of Doctor Pepper would help to. But key, yes, more important than caffeine, is to be surrounded by people actually using your work and giving you feedback. No point building anything no one uses. Ever.
