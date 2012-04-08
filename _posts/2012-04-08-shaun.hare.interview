@@ -1,0 +1,32 @@
+---
+layout: post
+title: "An interview with Shaun Hare"
+slug: "shaun.hare"
+person: "Shaun Hare"
+summary: "Developer, University of Nottingham"
+categories: ['linux','macosx', 'web', 'ruby', 'java', 'php', 'javascript', 'developer', 'Nottingham', 'UK', 'University']
+---
+### Who are you, and what do you do?
+
+My name is Shaun Hare, I work as a web technologist (yes that's the official title) at the University of Nottingham, on the [Web Technologies team](http://comms.nottingham.ac.uk/webtechnologies). I work on web applications/services and the main university portal and mobile applications. My work varies from creating web services and code for internal systems to offering application programming support to academics and professional services throughout the university. I also develop and help administer our wiki and WordPress installations.
+
+### Who taught you how to do what you do?
+
+I came from a completely different background having a degree in Animal Science, but have completed computing science part-time at Grimsby Institute and numerous industry short courses. I have been in the web industry now for over ten years and ran a small agency for a while. So a lot of programming knowledge has been gained through practical tinkering and a healthy mix of short courses, hack days and conferences. I have found it invaluable to learn from others both through meetups and online resources such as [Stack Overflow][stack-overflow]. My co-workers and I try to share our day-to-day working knowledge and we gain a lot when we do that. I really enjoy learning things so am always willing to have a go at something new.
+
+### What tools do you use?
+
+A unibody [Macbook-Pro][macbook-pro] is my stalwart; it is trusty and fortfied with 8GB of ram and nicely supplimented with a 24inch [Cinema Display][cinema-display]. Programming languages depend on what I am working on but I think you can safely say there are four main languages I rely on: In order of experience they go [PHP][php],[Javascript][javascript],[Java][java],[Ruby][ruby], although of course as a web developer I am always working with HTML and CSS too. I have also recently started working with [Objective-c][objective-c]. I use [Textmate][textmate] for Ruby and [Eclipse][eclipse],[Xcode][xcode] and [Intell-j][intellij-idea] for others, and heavily rely on the [Terminal][terminal] for day-to-day working, scripts and repository access, etc. 
+
+We use pretty much all of the Atlassian stack for development. [Jira][jira] aids project management and [Bamboo][bamboo] continuous integration engine ensures our code tests and deployments run smoothly.
+
+We use both [Git][git] and [SVN][subversion]. But I see us moving towards [Git][git] more and more.
+
+I really love a bit of devops and feel as happy as the proverbial pig when tinking around with servers too. I use [Vagrant][vagrant] to help with testing things out, playing around with [Centos][centos] boxes and other flavours of [Linux][linux] mainly.
+
+By and large I like tools that are simple and unobtrusive, help me get the job done, I distinctly hate tools that force me down a particular route.
+
+### Describe your dream working environment.
+
+My dream working environment is one of freedom and a mix of tranquility and chaos. I like to have quiet programming space, but would not be without team members to bounce things off. So a cubby hole to retire to for quiet time would be great. If I think of something, I like to hack on it, so the more mobile I can be the better and there is nothing like a deadline to focus you. 
+
