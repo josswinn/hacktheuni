@@ -1,0 +1,35 @@
+---
+layout: post
+title: "An interview with David Tarrant"
+slug: "david.tarrant"
+person: "David Tarrant"
+summary: "Research Fellow, University of Southampton"
+categories: ['researcher', 'developer', 'Southampton', 'UK', 'University']
+---
+### Who are you, and what do you do?
+
+As a recent doctoral graduate at the University of Southampton, I see my role as a Research Fellow to focus on real, practical scientific progress. 
+
+I will be the first to admit I am not brilliant at the theory in areas of deep understanding but do however have an excellent grasp on the bigger picture and future directions. As a Research Fellow, one of the primary metrics by which my performance is measured is through publications, this may come as a surprise to many who know me as a developer. If you think about it logically however, I'm sure you can name many famous people who realised that development isn't enough on its own to make a difference, and this is where publication, presentation and other forms of focussed dissemination come into the picture. To name but a few of the most famous developers, take Sir Tim Berners-Lee, the inventor of the web, Larry Page and Sergy Brin (Google) and of course Steve Jobs. Among others these people represent those who strived to make the world a better place and did something about not just developing the technology but giving it back to people. So yes, I'm a developer, but also an active member of the scientific community. 
+
+My current areas of focus are digital preservation, bibliometrics, alt-metrics, linked data and the semantic web. This is a diverse set of topics but they converge with a common interest in data publication, preservation of this data and the measurement of impact of this data. So broadly speaking that is my current area of work. 
+
+### Who taught you how to do what you do?
+
+The best teachers are your peers, those around you who have knowledge. Your aim is to find a way of learning from your peers without them becoming fed up with you. In this list of peers I include lecturers and teachers, colleagues and of course the very important network of connections established by attending scientific conferences. The bigger your potential GLOBAL community, the more you learn. In order to not annoy your peers with questions, there is no replacement for individual learning and research and good use of Google. 
+
+Also as an addition to the last 2 questions, people might want to read [The Passionate Programmer: Creating a Remarkable Career in Software Development](http://pragprog.com/book/cfcar2/the-passionate-programmer "The Passionate Programmer: Creating a Remarkable Career in Software") by Chad Fowler.
+
+### What tools do you use?
+
+Whatever I need to. My favourite tool however has to be [Virtual Machines](https://en.wikipedia.org/wiki/Virtual_machine "a completely isolated guest operating system installation within a normal host operating system.") that enable me to have specific environments to hand very quickly. This also allows very clean separation of project demands (development, test and deploy systems) from spaces used for publication environments. 
+
+### Describe your dream working environment.
+
+In order of importance.
+
+1. Right people, so you go on learning and being engaged throughout your life.
+2. Socialising encouraged.
+3. Flexible working environment (not 9-5), light and pleasant.
+4. Right tools (not a locked-in solution)
+5. Good money
