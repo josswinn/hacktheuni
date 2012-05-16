@@ -8,7 +8,7 @@ categories: ['engineer', 'developer', 'EDINA', 'UK', 'University', 'Edinburgh', 
 ---
 ### Who are you, and what do you do?
 
-My name is [Ian Stuart](http://uk.linkedin.com/in/codegorilla "Ian Stuart, Software Engineer at EDINA."), and I'm a software engineer at [EDINA](http://edina.ac.uk/).
+My name is [Ian Stuart](http://uk.linkedin.com/in/codegorilla "Ian Stuart, Software Engineer at EDINA."), and I'm a software engineer at [EDINA](http://edina.ac.uk/ "EDINA is a UK national academic data centre.").
 
 I started out, way back in the early 80's, learning electronics & wiring up pulse telephone exchanges. Over the years, I moved into repairing hardware... and then doing software support as part of "looking after the customer."
 
@@ -39,7 +39,7 @@ For creating code.... [GVim][vim] - writing Perl, [XHTML][html], [Javascript][ja
 
 I use a [Linux][linux] desktop (dual screen, achingly empty hard drives (over 75% empty), blah, blah), however this is essentially a music-playing smart [Xterm][xterm], with web-browser and email-reader. Oh, OK... I also produce a few documents, have a local web server, database server, and some other bits and pieces...
 
-Development work is mostly done on Sun servers, and deployment is also on Sun hardware... so Xterms & [SSH][ssh] are my closest friends (as are [really obscure passwords](http://blog.agilebits.com/2011/08/10/better-master-passwords-the-geek-edition/ "Better Master Passwords: The geek edition"))
+Development work is mostly done on Sun servers, and deployment is also on Sun hardware... so Xterms & [SSH][ssh] are my closest friends (as are [really obscure passwords](http://blog.agilebits.com/2011/08/10/better-master-passwords-the-geek-edition/ "Better Master Passwords: The geek edition")).
 
 ### Describe your dream working environment.
 
