@@ -1,0 +1,52 @@
+---
+layout: post
+title: "An interview with Ian Stuart"
+slug: "ian.stuart"
+person: "Ian Stuart"
+summary: "Research Fellow, University of Southampton"
+categories: ['engineer', 'developer', 'EDINA', 'UK', 'University', 'Edinburgh', 'Perl']
+---
+### Who are you, and what do you do?
+
+My name is [Ian Stuart](http://uk.linkedin.com/in/codegorilla "Ian Stuart, Software Engineer at EDINA."), and I'm a software engineer at EDINA.
+
+I started out, way back in the early 80's, learning electronics & wiring up pulse telephone exchanges. Over the years, I moved into repairing hardware... and then doing software support as part of "looking after the customer."
+
+In 1993 I started a Computing Support job with the Vet Faculty at Edinburgh Uni, and in '94 I set up their first web server.
+
+In '97 I moved to central university computing support, and in 2000 moved to EDINA (I've been here 12 years, which is testament to how good the place is to work in)
+
+At EDINA, we mostly create and manage services for the whole of the HE/FE community, though we also undertake some exploratory/research roles, and have a variety of internal facilities and infrastructures to maintain (to support what we do) so I've worked on a great array of things over the years.
+
+Primarily I'm a [Perl][perl] Programmer, self taught, and I have 10-year-old code still being used in front-line production services.
+
+My current hobby-horse is recognising the globalisation of research and identifying organisations (and their repositories).
+
+I'm also mechanically-minded, so I've been known to fix doors, chairs, tables, and other things around the office as well :chuckle:
+
+I'm also a self-taught mechanical-engineer, having built three cars so far...
+
+### Who taught you how to do what you do?
+
+I am self-taught - with a few courses thrown in to bolster/confirm my knowledge.
+One of the great things about EDINA is that we are all happy to share our wisdom, and because we all approach problems in different ways, we can come up with interesting and novel solutions to problems.
+
+I also teach Perl: I do an "Introduction to Perl" course for staff & postgrads at the Uni... something I find really useful as it helps me understand Perl better
+
+### What tools do you use?
+
+For creating code.... [GVim][vim] - writing Perl, [[X]HTML][html], [Javascript][javascript], and/or [CSS][css] as needed.
+
+I use a [Linux][linux] desktop (dual screen, achingly empty hard drives [over 75% empty], blah, blah), however this is essentially a music-playing smart [Xterm][xterm], with web-browser and email-reader. Oh, OK... I also produce a few documents, have a local web server, database server, and some other bits and pieces...
+
+Development work is mostly done on Sun servers, and deployment is also on Sun hardware... so Xterms & [SSH][ssh] are my closest friends (as are [really obscure passwords](http://blog.agilebits.com/2011/08/10/better-master-passwords-the-geek-edition/ "Better Master Passwords: The geek edition"))
+
+### Describe your dream working environment.
+
+A desk made from the back-body of a [Land Rover](http://en.wikipedia.org/wiki/Land_Rover "a British car manufacturer which specialises in four-wheel-drive vehicles.")?
+
+I've been trying to go from dual-display to quad-display... for the hell of it.
+
+Seriously.... work is pretty cool as it is! More time to play with strange & weird things, and more perl-monkeys working on my projects with me would be nice...
+
+I have a hankering to try using some kind of remote-desktop system to map my desktop display to a netbook/tablet display.... so I can take my work with me when I'm on the move - but I *SO* need my big screens that it would be a real pain to have to pan around to look for windows. I'm sure I'd ditch the plan pretty quickly.
