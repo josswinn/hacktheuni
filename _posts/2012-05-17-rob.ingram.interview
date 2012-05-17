@@ -4,7 +4,7 @@ title: "An interview with Rob Ingram"
 slug: "rob.ingram"
 person: "Rob Ingram"
 summary: "e-Education Support Officer, University of Nottingham"
-categories: ['developer', 'UK', 'University', 'Nottingham', 'PHP', '.Net', 'Ruby']
+categories: ['developer', 'UK', 'University', 'Nottingham', 'php', '.net', 'ruby']
 ---
 ### Who are you, and what do you do?
 
@@ -18,7 +18,7 @@ I have a degree and PhD in computer science but as they were 20 years ago I’d 
 
 ### What tools do you use?
 
-It depends on the context.  Operating systems: [OSX][mac-os-x], [Windows][windows-7], [Ubuntu][ubuntu], [CentOS][centos] along with [VMware][vmware-workstation] to give me configuration options. Editors: [SublimeText][sublime-text-2], [PHPStorm][phpstorm] (though I still haven’t found a PHP IDE that comes close to [Visual Studio][visual-studio]), [Coda][coda]. Source control: [TortoiseSVN][tortoisesvn], [Git][git], [Trac][trac]. I test across browsers so all of the common ones, though I’ll admit to overlooking [Opera][opera] because I’ve never met anyone who uses it seriously. As the amount of AJAX I’m doing increases [Firebug][firebug] and the built in browser tools become increasingly important for debugging but there is also Xdebug in PHPstorm for server side debugging and Fiddler for snooping requests. I could go on.
+It depends on the context.  Operating systems: [OSX][mac-os-x], [Windows][windows-7], [Ubuntu][ubuntu], [CentOS][centos] along with [VMware][vmware-workstation] to give me configuration options. Editors: [SublimeText][sublime-text-2], [PHPStorm][phpstorm] (though I still haven’t found a PHP IDE that comes close to [Visual Studio][visual-studio]), [Coda][coda]. Source control: [TortoiseSVN][tortoisesvn], [Git][git], [Trac][trac]. I test across browsers so all of the common ones, though I’ll admit to overlooking [Opera][opera] because I’ve never met anyone who uses it seriously. As the amount of AJAX I’m doing increases, [Firebug][firebug] and the built in browser tools become increasingly important for debugging but there is also [Xdebug][xdebug] in PHPstorm for server side debugging and [Fiddler][fiddler] for snooping requests. I could go on.
 
 ### Describe your dream working environment.
 
