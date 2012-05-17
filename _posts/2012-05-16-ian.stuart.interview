@@ -41,6 +41,8 @@ I use a [Linux][linux] desktop (dual screen, achingly empty hard drives (over 75
 
 Development work is mostly done on Sun servers, and deployment is also on Sun hardware... so Xterms & [SSH][ssh] are my closest friends (as are [really obscure passwords](http://blog.agilebits.com/2011/08/10/better-master-passwords-the-geek-edition/ "Better Master Passwords: The geek edition")).
 
+As part of the development process for web-based services, I do testing on multiple devices: The obvious Win/Mac/Unix platforms, with the usual selection of browsers... however I also have access to [Apple][apple-ios] and [Android][android] devices, ranging from 4" to 10" displays. Gone are the days of easy web design - it needs some serious technical thought to make a service run properly across all devices!
+
 ### Describe your dream working environment.
 
 A desk made from the back-body of a [Land Rover](http://en.wikipedia.org/wiki/Land_Rover "a British car manufacturer which specialises in four-wheel-drive vehicles.")?
