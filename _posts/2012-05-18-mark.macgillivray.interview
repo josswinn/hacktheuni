@@ -1,0 +1,23 @@
+---
+layout: post
+title: "An interview with Mark MacGillivray"
+slug: "mark.macgillivray"
+person: "Mark MacGillivray"
+summary: "Partner, Cottage Labs"
+categories: ['developer', 'uk', 'edinburgh', 'php', 'python', 'javascript', 'linux', 'freelance']
+---
+### Who are you, and what do you do?
+
+I am [Mark MacGillivray](http://okfn.org/members/markmacgillivray/ "Mark MacGillivray at OKFN), and I like to solve problems. I find good problems by asking people what they need help with, and then helping them do it - so I appear to be quite altruistic! I am a partner at [Cottage Labs LLP](http://cottagelabs.com/ "Cottage Labs does open source software development,consultancy, and analysis - building tools for working with information."), a PhD student at the University of Edinburgh, and I also do a bit of work at the [Open Knowledge Foundation](http://okfn.org "OKFN build tools and communities to promote open knowledge around the world.").
+
+### Who taught you how to do what you do?
+
+I mostly taught myself, but of course even that involves a lot of input from other people. As a kid I watched my Dad build houses, and saw how the structures that surround us every day get created. From this I gained an interest in how things work, and I just kept going with it. My growing up coincided with the invention of the internet, and as it is just a big network of problems, I became interested in writing software.
+
+### What tools do you use?
+
+I use loads of tools - there are so many great ones! Mainly [Linux][linux] ([Debian][debian]/[Ubuntu][ubuntu]), [Python][python], [JQuery][jquery], [elasticsearch][elasticsearch] and [Git][git]; a fair bit of [nginx][nginx], [PHP][php], [CouchDB][couchdb] and SQL databases; some java, windows stuff; and most recently, [node.js][node-js]. There are also the tools that I use to actually get projects done - development methodologies, ways of working with people, that sort of thing.
+
+### Describe your dream working environment.
+
+I am pretty much in my dream working environment - I am a founder of a software development partnership that focusses on open source software for research and higher education. Who or when or where we are is less important than the skills we can apply, our availability to apply them, and our inclination to do so. We rely on all sorts of online (and generally free) services to enable us to work with people anywhere, at any time, in a way that would have been much harder just ten years ago. Too many jobs measure by attendance instead of output, which does not encourage creativity, so it is good to be free of that.
