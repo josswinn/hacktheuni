@@ -1,0 +1,25 @@
+---
+layout: post
+title: "An interview with Rob Ingram"
+slug: "rob.ingram"
+person: "Rob Ingram"
+summary: "e-Education Support Officer, University of Nottingham"
+categories: ['developer', 'UK', 'University', 'Nottingham', 'PHP', '.Net', 'Ruby']
+---
+### Who are you, and what do you do?
+
+I’m [Rob Ingram](http://uk.linkedin.com/pub/rob-ingram/0/71a/a "e-Education Developer at the University of Nottingham.") and my official title is e-Education Support Officer at the [University of Nottingham](http://nottingham.ac.uk/).  This means that I work as a developer in the Learning Technologies team. Day to day I work on the university’s in-house assessment management system [Rogō](http://www.nottingham.ac.uk/rogo/index.aspx) and a new curriculum mapping project. Rogō runs hundreds of high stakes summative exams each year across Nottingham University and has recently been released as an open source project so a lot of what I do is trying to resolve the requirements of a large user base.
+ 
+Both projects are [PHP][php]/[MySQL][mysql] but I also have a background in [.Net][dotnet] and [Rails][rails].
+
+### Who taught you how to do what you do?
+
+I have a degree and PhD in computer science but as they were 20 years ago I’d hardly say that they taught me what I do now.  If anyone did it was myself with the help of [Pragmatic Programmers](http://pragprog.com/the-pragmatic-programmer "An influential book about the craft of programming software."), O’Reilly and the World Wide Web.
+
+### What tools do you use?
+
+It depends on the context.  Operating systems: [OSX][mac-os-x], [Windows][windows-7], [Ubuntu][ubuntu], [CentOS][centos] along with [VMware][vmware-workstation] to give me configuration options. Editors: [SublimeText][sublime-text-2], [PHPStorm][phpstorm] (though I still haven’t found a PHP IDE that comes close to [Visual Studio][visual-studio]), [Coda][coda]. Source control: [TortoiseSVN][tortoisesvn], [Git][git], [Trac][trac]. I test across browsers so all of the common ones, though I’ll admit to overlooking [Opera][opera] because I’ve never met anyone who uses it seriously. As the amount of AJAX I’m doing increases [Firebug][firebug] and the built in browser tools become increasingly important for debugging but there is also Xdebug in PHPstorm for server side debugging and Fiddler for snooping requests. I could go on.
+
+### Describe your dream working environment.
+
+Somewhere with a team that is passionate about what it does and encourages other members to learn and develop. Somewhere that embraces new technologies and ideas without blindly chasing the latest greatest trend. Somewhere that encourages and supports innovation.
