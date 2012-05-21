@@ -1,0 +1,46 @@
+---
+layout: post
+title: "An interview with John Harrison."
+slug: "john.harrison"
+person: "John Harrison"
+summary: "Developer, University of Liverpool"
+categories: ['developer', 'liverpool', 'uk']
+---
+### Who are you, and what do you do?
+
+John Harrison, Developer, University of Liverpool.
+
+I work on [Cheshire3](http://www.cheshire3.org), and services based on it. Cheshire3 is a framework for analysis, discovery and presentation of unstructured (text) and semi-structured ([XML][xml], [RDF][rdf]) data.
+
+Cheshire3 has primarily been used to power library and archives catalogues (e.g. British Library [ISTC](http://istc.bl.uk), [Archives Hub](http://archiveshub.ac.uk)). More recently I've been working on integrating its data analysis and search capabilities with the [iRODS](http://www.irods.org) data grid storage system.
+
+These days I develop mainly in [Python][python], with web front-end provision necessitating occasional forays into [XSLT][xslt], [HTML][html], [CSS][css] and [JavaScript][javascript] (+ JS frameworks).
+
+### Who taught you how to do what you do?
+
+After dabbling with programming on the [ZX Spectrum][spectrum] and [Acorn Electron][acorn-electron] as a kid, I returned to it via a Masters degree that was half Bioinformatics, half Computer Science. I learned a little bit of [Java][java], [Python][python], [Perl][perl] and [C][c]. However it was on the job that I was offered at the University of Liverpool by Paul Watry immediately after the course, that I really learned how to do what I do.
+
+While I wouldn't say that I was really 'taught', I don't doubt that I've learned a lot from my colleagues, particularly during the first year or so. Clare Llewellyn and I started at pretty much the same time and were both mentored by Robert Sanderson, who was considerably more experienced. Clare and I started off [pair-programming](http://en.wikipedia.org/wiki/Pair_programming "Pair programming"), with Rob helping us out whenever we hit a problem we couldn't figure out ourselves.
+
+I've learnt mainly by doing, and inevitably making mistakes along the way. Open source tools, with good documentation have been invaluable. I've also benefitted from contact with other developers at the event known as [Dev8D](http://dev8d.org "Dev8D"). They've made me aware of new tools and approaches that I can then take away and apply to my everyday work (most notably Git, see below).
+
+### What tools do you use?
+
+My workplace hardware is a [Dell Precision](http://www.dell.com/uk/business/p/precision-desktops "Dell Precision desktop computers") workstation with quad-core processor and a big chunk of RAM running [Fedora][fedora] 15 [Linux][linux]. My display setup is twin Dell 20 inch 16:9 TFTs. I have to have an optical mouse for responsiveness, but I'm not so fussy about the keyboard. At home and on the road I use an [IBM Thinkpad](http://en.wikipedia.org/wiki/ThinkPad "IBM Thinkpad").
+
+I develop using the [PyDev][pydev] and Web/XML plugins for [Eclipse 4.0][eclipse]. My favorite features of this combo are:
+
+     * syntax highlighting across programming and markup languages
+     * the ability to indent/dedent and comment/uncomment multi-line chunks of code
+     * integration with source code version control
+     * auto code completion and help
+
+I got switched on to [Git][git] for source code version control at Dev8D 2011, and now use it for all new projects. I'm also migrating several existing projects, including Cheshire3, from one gargantuan [Subversion][subversion] repository into many smaller Git ones. I recently started using the [git-flow][git-flow] plugin for branch management, and consequently I tend to use the command-line UI rather than the Eclipse EGit plugin.
+
+### Describe your dream working environment.
+
+* Everyone is free to use whatever hardware and software makes them most productive, and there is adequate supporting documentation to enable them to use shared infrastructure like email and printing.
+* There's communal space for meetings and creative conversations, with all the necessary gear (hot and cold drinks, whiteboards, etc.)
+* Less than 1% of time is spent on bureacracy/paperwork - all forms can be completed online.
+* The temperature is a constant 20 C
+* There is a good pub nearby

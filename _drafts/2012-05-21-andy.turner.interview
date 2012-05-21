@@ -1,0 +1,23 @@
+---
+layout: post
+title: "An interview with Andy Turner."
+slug: "andy.turner"
+person: "Andy Turner"
+summary: "Researcher, University of Leeds"
+categories: ['researcher', 'geography', 'uk', 'leeds', 'java', 'fortran', 'linux']
+---
+### Who are you, and what do you do?
+
+[Andy Turner](http://www.geog.leeds.ac.uk/people/a.turner/ "Andy Turner's web pages"), at work I am focussing on computational geography.
+
+### Who taught you how to do what you do?
+
+I see that as a somewhat nebulous open question. To be useful, my answer will narrow the scope to software development, but in that and generally (and in all honesty) the answer is probably everyone; the good, the bad and the ugly! Perhaps my most influencial teachers were family and friends. They gave me foundation. My mother, Jane, encouraged me to sort things out and build. My late father, Ian (something of a genius), encourage construction and artistic creativity. My brother, Jim, taught me to challenge authority and work with it, to work around it. These are especially important in software development as is collaboration and first principles (although that latter part is less important - all depending on what you plan to do). I learned first the mathematics of computability and unsolvability (other related fundaments and imperative natural number programming) as an undergraduate reading mathematics and geography. (The main teachers were Alan Slomson, Stan Weiner and a kindly gent that developed INPO who's name currently escapes me). Next, I got involved in developing Geographical Analysis Technology and parallelising [Fortran][fortran] 90 programs with Stan Openshaw and Ian Turton whilst learning unix scripting and various [Geographical Information Systems](http://en.wikipedia.org/wiki/Geographic_information_system "GIS") software in 1996-1997 as part of a masters. I wrote my first Fortran programs with the help of Oliver Duke-Williams in 1999. Then James MacGill and Ian Turton encouraged me to start learning [Java][java]. From then on, it's been largely self taught, but I learn a great deal through example and by liaising with others as well as by trial and error. In addition to programming languages, I have also learned about data formats and encodings, again, most of that was self taught, but it has special relevance. In recent years I have trained via the UK [e-Science](http://en.wikipedia.org/wiki/E-Science "e-Science") program. Guy Warner helped me learn about the security mechanisms and the development of [XML][xml] and Java from XSD using [Eclipse][eclipse].
+
+### What tools do you use?
+
+I try to use whatever is approriate. Currently I make a lot of use out of [Linux][linux], [Netbeans][netbeans] and Eclipse.
+
+### Describe your dream working environment.
+
+Somewhere with links to [The Culture](http://en.wikipedia.org/wiki/The_Culture "The Culture"). I'd happily work in [Special Circumstances](http://en.wikipedia.org/wiki/Special_Circumstances "Special Circumstances").
