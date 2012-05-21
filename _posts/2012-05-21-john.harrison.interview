@@ -30,10 +30,10 @@ My workplace hardware is a [Dell Precision](http://www.dell.com/uk/business/p/pr
 
 I develop using the [PyDev][pydev] and Web/XML plugins for [Eclipse 4.0][eclipse]. My favorite features of this combo are:
 
-     * syntax highlighting across programming and markup languages
-     * the ability to indent/dedent and comment/uncomment multi-line chunks of code
-     * integration with source code version control
-     * auto code completion and help
+* syntax highlighting across programming and markup languages
+* the ability to indent/dedent and comment/uncomment multi-line chunks of code
+* integration with source code version control
+* auto code completion and help
 
 I got switched on to [Git][git] for source code version control at Dev8D 2011, and now use it for all new projects. I'm also migrating several existing projects, including Cheshire3, from one gargantuan [Subversion][subversion] repository into many smaller Git ones. I recently started using the [git-flow][git-flow] plugin for branch management, and consequently I tend to use the command-line UI rather than the Eclipse EGit plugin.
 
