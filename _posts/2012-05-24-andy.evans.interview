@@ -3,12 +3,12 @@ layout: post
 title: "An interview with Andy Evans."
 slug: "andy.evans"
 person: "Andy Evans"
-summary: "Researcher, University of Leeds"
+summary: "Lecturer, University of Leeds"
 categories: ['lecturer', 'geography', 'uk', 'leeds', 'java']
 ---
 ### Who are you, and what do you do?
 
-[Andy Evans](http://www.geog.leeds.ac.uk/people/a.evans/ "Andy Evan's web pages), and I'm a Lecturer in GeoComputation. I work in a geography department, which is a great place for [hackers](http://en.wikipedia.org/wiki/Hacker_%28programmer_subculture%29 "Hacker Wikipedia page") of all kinds, as it's one of the few places you can still get away with studying pretty much anything – Geography is the last bastion of the Renaissance ideal that it's possible to study the world as a whole, rather than breaking it into separate subjects, which means it's continually interesting and varied. I teach programming ([Java][java] at the moment) and a variety of Artificial Intelligence bits and pieces. This might seem strange for a geography department, but actually we've got 40+ years experience at Leeds of using AI to do all kinds of spatial work, from finding crime clusters to predicting floods. Geographical problems tend to be very hard and very messy, because you're dealing with open systems containing massive numbers of variables, and AI techniques cope well with that kind of thing.
+[Andy Evans](http://www.geog.leeds.ac.uk/people/a.evans/ "Andy Evans' web pages"), and I'm a Lecturer in GeoComputation. I work in a geography department, which is a great place for [hackers](http://en.wikipedia.org/wiki/Hacker_%28programmer_subculture%29 "Hacker Wikipedia page") of all kinds, as it's one of the few places you can still get away with studying pretty much anything – Geography is the last bastion of the Renaissance ideal that it's possible to study the world as a whole, rather than breaking it into separate subjects, which means it's continually interesting and varied. I teach programming ([Java][java] at the moment) and a variety of Artificial Intelligence bits and pieces. This might seem strange for a geography department, but actually we've got 40+ years experience at Leeds of using AI to do all kinds of spatial work, from finding crime clusters to predicting floods. Geographical problems tend to be very hard and very messy, because you're dealing with open systems containing massive numbers of variables, and AI techniques cope well with that kind of thing.
 
 ### Who taught you how to do what you do?
 
