@@ -8,7 +8,11 @@ Hacking the University is a website of short interviews asking coders who work i
 
 ### How can I contribute my profile?
 
-The website is a git repository, [hosted on Github](https://github.com/josswinn/hacktheuni). Treat it like code. Fork it, add your contribution and then make a pull request to josswinn. 
+You can email me answers to the questions on the site along with a photo at least 500x335px. It's that easy. 
+
+To help me out and to maintain control over your profile (so you can update it any time), treat it like code: 
+
+The website is a git repository, [hosted on Github](https://github.com/josswinn/hacktheuni). Fork it, add your contribution and then make a pull request to josswinn. 
 
 Note that the pages are written in [markdown](http://daringfireball.net/projects/markdown/basics) and a formatted template is below. The file should be placed in the _posts directory and use the filename format: year-month-day-firstname.lastname.interview e.g. 2012-02-14-nick.jackson.interview
 
