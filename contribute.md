@@ -18,9 +18,7 @@ The format of the .yml files is as follows:
 
 `---
 title: "MacBook Pro"
-
 url: "http://www.apple.com/macbookpro/"
-
 description: "The popular Intel-based Mac laptop."`
 
 The filename for a .yml file should be a single word or words joined by hyphens. e.g. macbook.yml or macbook-pro.yml
