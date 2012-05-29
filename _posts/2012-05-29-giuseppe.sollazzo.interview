@@ -1,0 +1,55 @@
+---
+layout: post
+title: "An interview with Giuseppe Sollazzo."
+slug: "giuseppe.sollazzo"
+person: "Giuseppe Sollazzo"
+summary: "Senior Systems Analyst, St. George's University of London"
+categories: ['data', 'linux', 'php', 'python', 'sgul, 'london', 'university']
+---
+
+### Who are you, and what do you do?
+
+My short [twitter bio](http://twitter.com/puntofisso "Giuseppe on Twitter") goes on as: "Senior Systems Analyst <a href="http://www.sgul.ac.uk">SGUL</a>, Open Data & geomobile, ex-PhD student at Imperial College. Dev of <a href="http://www.liverugbyapp.com">LiveRugbyApp</a>. Choir singer, cheese maker, and rugby player."
+
+I find it pretty descriptive of what I am, especially about my inability to discard things I like doing.
+
+As my job title suggests, I'm mostly a sysadmin. However, due to the peculiar structure we have at SGUL, I also do a good deal of development, especially R&D for new services and using new technologies. This comes from my experience in development and project management from both freelancing and previous work experiences.
+
+For St. George's, I deployed our first <a href="http://m.sgul.ac.uk">mobile portal</a> and contributed to the Open Source <a href="http://www.mollyproject.org">Molly Project</a> upon which the portal is built. I'm currently working on our <a href="http://data.sgul.ac.uk">Open Data Repository</a>, and trying to develop a set of <a href="http://github.com/sgul">tools</a> to facilitate the setup of such repositories. I've also facilitated the setting up of our <a href="http://cris.sgul.ac.uk">Current Research Information System</a> (based on Symplectic Elements and E-Prints) and using it as a base to harvest research data.
+
+As a mobile developer in my free time, I've also launched a now retired [Android][android] and [iPhone][iphone] app to follow Rugby World Cup and Six Nations games which got some flatteringlo coverage on the international press.
+
+I've always been fascinated by mobiles and "weak" infrastructures. I did <a href="http://www.cs.bham.ac.uk/~musolesm/papers/mobiopp07.pdf">research</a> in the context of Delay Tolerant Networking, and I'm now a contributor to <a href="http://github.com/taarifa">Taarifa</a>, a geo-reporting and workflow management <a href="http://site.taarifa.org">platform</a>.
+
+### Who taught you how to do what you do?
+
+I was 5 when I started copying [BASIC][basic] code from the manuals onto my [Commodore 128][commodore-128]'s console. That was some time before I learnt how to read, and I was just doing it as I found the relationship about those signs on the keyboard and the resulting drawings or sounds fascinating. I think that says it all. I went on with having an [Amiga 500 Plus][amiga], a 8086, 286, 486, and finally several Pentium, all of which allowed me to experiment with coding at home and at school, where I learnt some [Pascal][pascal], [COBOL][cobol], [SQL][mysql], [Java][java], and (shamefully :P) [Visual Basic 6][visual-basic]. 
+
+I was one of the early adopters of the Internet in my not-so-techy Southern Italian home town. I developed my first personal web-site in 1996 (when I was 14) with pure [HTML][html] - soon followed by learning [JavaScript][javascript] and [CSS][css] which were starting to get some traction at the time.
+
+Upon enrolling to a Computer Science course at University of Bologna, I discovered the amazing world of functional programming with [Scheme][scheme], but it wasn't until I got time to play with [C][c] for the Operating Systems course - getting to use things like processes, pipes, named pipes, sockets, and modifying the OS Scheduler - that I was really captured by coding. 
+
+You never stop learning, but I tend to indicate the OS exam as the end of the "hard-core" period of my education in computer programming.
+
+### What tools do you use?
+
+I'm generally pretty much tool-agnostic and I tend to select the set of languages, tools, and technologies, that best suit the project I'm working on.
+
+On my desk at work I have 4 machines running: a [Linux][linux] x86 [Ubuntu][ubuntu] (my main machine), a [Windows 7][windows-7], a [Mac Mini][mac-mini], and a [Solaris 10][solaris].
+
+For system administration: [CentOs][centos], [Bash][bash] shell scripting, [Perl][perl], [VmWare Vsphere][vmware-server]
+
+Development tools: [Vim][vim], [Git][git] (I'm a convert from [cvs][cvs]), [Eclipse][eclipse], [Xcode][xcode]
+
+Languages & Frameworkss: [PHP][php], [Python][python], [Django][django] (and recently experimenting with [Flask][flask]), [Objective-C][objective-c], [Java][java]
+
+Mobile: [Android][android], [iOS][apple-ios] 
+
+
+### Describe your dream working environment.
+
+I like places where you can experiment, be challenged, be rewarded in a human way. I don't think that the need to get an always increasing amount of money has necessarily to be a part of it, but the feeling of appreciation by strengthening human and work relationships has. I think that academia is very close to my dream working environment.
+
+I love to solve people's problems and I'm lucky to be able to do so, working in a University. I also love the fact that I have the possibility to experiment with new ideas and technologies, thanks to the support of my managers and the enthusiasm of the users I get involved in such projects. I think that in academia there are lots of interesting people, and consider myself lucky to be able to interact with them very often. 
+
+The level of flexibility you can experience in a university environment is also another factor: provided you have a good drive to bring the projects forward, you can do that relatively when and where you prefer, and use the tools you repute best suited to the task.
