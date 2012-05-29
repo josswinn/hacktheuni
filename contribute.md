@@ -6,18 +6,6 @@ If you would like http://your.name.hackingtheuniversity.net, please read on.
 
 Hacking the University is a website of short interviews asking coders who work in universities about their craft.
 
-### What is a Hacker?
-
-I use the word fairly loosely. You might use the words 'coder', 'programmer', or 'developer'. If you can relate to this description, then I'd say you are a Hacker. Sit proud!
-
-### What's the background to all of this?
-
-It relates to the work I do. I'm interested in how Hackers learn and their choice of tooling. Universities have been sites for hacking since the 1950s. I'd like to understand that relationship better. Read more [over here](http://joss.blogs.lincoln.ac.uk/2012/02/25/hacking-the-university/).
-
-### Are you only interested in Hackers working in UK universities?
-
-If you get paid to write code in a university, that's all that matters. It doesn't matter where you live.
-
 ### How can I contribute my profile?
 
 The website is a git repository, [hosted on Github](https://github.com/josswinn/hacktheuni). Treat it like code. Fork it, add your contribution and then make a pull request to josswinn. 
