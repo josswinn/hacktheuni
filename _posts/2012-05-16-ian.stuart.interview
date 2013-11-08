@@ -10,15 +10,15 @@ categories: ['engineer', 'developer', 'EDINA', 'uk', 'university', 'edinburgh', 
 
 My name is [Ian Stuart](http://uk.linkedin.com/in/codegorilla "Ian Stuart, Software Engineer at EDINA."), and I'm a software engineer at [EDINA](http://edina.ac.uk/ "EDINA is a UK national academic data centre.").
 
-I started out, way back in the early 80's, learning electronics & wiring up pulse telephone exchanges. Over the years, I moved into repairing hardware... and then doing software support as part of "looking after the customer."
+I started out, way back in the early 80's, learning electronics & wiring up pulse telephone exchanges. I dabbled with BBC & Comoadore computers, and played at programming (in assembler!) Over the years, I moved into repairing hardware... and then doing software support as part of "looking after the customer."
 
 In 1993 I started a Computing Support job with the Vet Faculty at Edinburgh Uni, and in '94 I set up their first web server.
 
-In '97 I moved to central university computing support, and in 2000 moved to EDINA (I've been here 12 years, which is testament to how good the place is to work in)
+In '97 I moved to central university computing support, and in 2000 moved to EDINA (I've been here ever since, which is testament to how good the place is to work in)
 
 At EDINA, we mostly create and manage services for the whole of the HE/FE community, though we also undertake some exploratory/research roles, and have a variety of internal facilities and infrastructures to maintain (to support what we do) so I've worked on a great array of things over the years.
 
-Primarily I'm a [Perl][perl] Programmer, self taught, and I have 10-year-old code still being used in front-line production services.
+Primarily I'm a [Perl][perl] Programmer, self taught, and I have code I wrote in 2001 still being used in front-line production services.
 
 My current hobby-horse is recognising the globalisation of research and identifying organisations (and their repositories).
 
@@ -31,7 +31,7 @@ I'm also a self-taught mechanical-engineer, having built three cars so far...
 I am self-taught - with a few courses thrown in to bolster/confirm my knowledge.
 One of the great things about EDINA is that we are all happy to share our wisdom, and because we all approach problems in different ways, we can come up with interesting and novel solutions to problems.
 
-I also teach Perl: I do an "Introduction to Perl" course for staff & postgrads at the Uni... something I find really useful as it helps me understand Perl better.
+I also teach Perl: I do an "Introduction to Perl" course for staff & postgrads at the Uni... something I find really useful as it helps me understand Perl better (why does `print "@foo"` print a list with spaces between the elements, but `print @foo` not have the spaces?).
 
 ### What tools do you use?
 
@@ -47,7 +47,7 @@ As part of the development process for web-based services, I do testing on multi
 
 A desk made from the back-body of a [Land Rover](http://en.wikipedia.org/wiki/Land_Rover "a British car manufacturer which specialises in four-wheel-drive vehicles.")?
 
-I've been trying to go from dual-display to quad-display... for the hell of it.
+I've been trying to go from dual-display to quad-display... for the hell of it.... or maybe I should just go for bigger monitors?
 
 Seriously.... work is pretty cool as it is! More time to play with strange & weird things, and more perl-monkeys working on my projects with me would be nice...
 
